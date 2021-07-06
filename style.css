@@ -1,0 +1,209 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.logo{
+    background-color: tomato;
+    width: 100%;
+    height: 150px;
+}
+.logo-1{
+    text-align: center;
+    text-transform: uppercase;
+    padding-top: 27px;
+    padding-bottom: 20px;
+    font-size: 30px;
+    color: rgb(180, 171, 171);
+}
+.orange{
+    color: orange;
+}
+.quote{
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 30px;
+    color: white; 
+}
+.intro{
+    height: 500px;
+    width: 100%;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.intro-1{
+    width: 45%;
+    height: 400px;
+    margin-top: 70px;
+    margin-left: 50px;
+}
+.main-text{
+    font-size: 50px ;
+    font-weight: 900;
+    margin-bottom: 20px;
+    text-transform: capitalize;
+}
+.text{
+    width: 70%;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    color: rgba(128, 128, 128, 0.76);
+}
+.button{
+    width: 100%;
+    margin-top: 20px;
+}
+.btn{
+    text-decoration: none;
+    color: white;
+    padding: 12px 24px;
+    border-radius: 35px;
+    background-image: linear-gradient(to right, orange, tomato);
+    box-shadow: 2px 2px 10px 8px rgb(255 102 0 / 41%);
+    margin-top: 30px;
+}
+.intro-2{
+    width: 45%;
+}
+.image{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    height: 500px;
+    width: 80%;
+}
+.about-me{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: space-around;
+}
+.about-me-1{
+    width: 45%;
+}
+.image-1{
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    height: 400px;
+    width: 300px;
+}
+.about-me-2{
+    width: 45%;
+    margin-top: 90px;
+}
+.recipies{
+    height: 650px;
+    width: 100%;
+}
+.recipies-1{
+    width: 100%;
+    height: 150px;
+}
+.main-text-1{
+    text-align: center;
+    font-size: 35px ;
+    font-weight: 900;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-transform: capitalize;
+}
+.text-1{
+    text-align: center;
+    width: 60%;
+    font-size: 14px;
+    font-weight: 200;
+    margin: auto;
+    color: rgba(128, 128, 128, 0.76);
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.recipies-2{
+    width: 90%;
+    height: 500px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.rec-1{
+    width: 28%;
+    height: 450px;
+    padding: 15px;
+    border-radius: 30px;
+    box-shadow: 2px 2px 21px -10px black;
+}
+.image-2{
+    height: 250px;
+    width: 100%;
+}
+.main-text-2{
+    font-size: 25px;
+    margin-left: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.text-2{
+    font-size: 14px;
+    margin-left: 15px;
+    color: rgba(128, 128, 128, 0.76);
+}
+.count{
+    width: 100%;
+    height: 200px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.count-1{
+    width: 80%;
+    height: 150px;
+    margin: auto;
+    display: flex;
+    justify-content: space-around;
+    box-shadow: 2px 2px 21px -10px black;
+}
+.number{
+    margin: 10px;
+    width: 30%;
+}
+.main-text-3{
+    text-align: center;
+    font-size: 35px ;
+    font-weight: 900;
+    margin-top: 16px;
+}
+.review{
+    width: 100%;
+    height: 550px;
+}
+.review-2{
+    width: 90%;
+    height: 100px;
+    margin: auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.person{
+    width: 30%;
+    height: 400px;
+}
+.image-3{
+    border-radius: 50%;
+    width: 230px;
+    height: 190px;
+    border: 10px solid orange;
+    display: block;
+    margin: auto;
+}
+.end{
+    background-color: black;
+    width: 100%;
+    height: 200px;
+}
+
+
+
